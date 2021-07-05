@@ -1,0 +1,69 @@
+body{font-family: 'Poppins', sans-serif;}
+
+.bang-1{
+    color: green;
+}
+
+
+
+.heading-start{
+    color: rgb(108, 79, 216);
+}
+
+.first-div{
+    text-align: center;
+    background-image: url(images/BANGLADESH.png);
+    background-repeat: no-repeat;
+background-size:1600px 200px;
+}
+
+.shitakunda-img{
+    width: 155px;
+    height: 170px;}
+
+    .flexible-container{
+        display: flex;
+        margin-bottom: 60px;
+    }
+
+    .container-width{
+        width: 50%;
+        box-shadow: 10px 20px 30px red;
+        padding: 25px;
+        border-radius: 40px;
+        margin: 20px;
+        border-image: linear-gradient(rgb(124, 25, 58),rgb(161, 46, 133));
+        border-left: 7px  solid;
+        border-top: 7px solid;
+        border-right: 7px solid;
+        border-image-slice: 1;
+    }
+
+    .chattogram{
+        text-align: center;
+    background-image: url(images/b6.png);
+    background-repeat: no-repeat;
+    background-size:1600px 200px;
+    padding-right: 5%;
+    padding-left: 5%;
+    padding-top: 1%;
+    }
+
+    .second-div{
+        background-image: url(images/b1.png);
+        background-repeat: no-repeat;
+        
+    }
+
+
+
+
+
+
+
+
+
+    footer{
+        text-align: center;
+        color: chartreuse;
+    }
