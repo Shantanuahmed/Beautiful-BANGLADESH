@@ -1,4 +1,5 @@
-body{font-family: 'Poppins', sans-serif;}
+body{font-family: 'Poppins', sans-serif;
+margin: 0px;}
 
 .bang-1{
     color: green;
@@ -14,45 +15,51 @@ body{font-family: 'Poppins', sans-serif;}
     text-align: center;
     background-image: url(images/BANGLADESH.png);
     background-repeat: no-repeat;
+    border-radius: 40px;
 background-size:1600px 200px;
+box-shadow: 0 0 30px rgb(23, 119, 31);
 }
 
 .shitakunda-img{
-    width: 155px;
+    width: 163px;
     height: 170px;}
 
     .flexible-container{
         display: flex;
-        margin-bottom: 60px;
+        margin-bottom: 20px;
     }
 
     .container-width{
         width: 50%;
-        box-shadow: 10px 20px 30px red;
+        box-shadow: 0 0 30px rgb(23, 119, 31);
         padding: 25px;
-        border-radius: 40px;
+        border-radius: 80px;
         margin: 20px;
-        border-image: linear-gradient(rgb(124, 25, 58),rgb(161, 46, 133));
-        border-left: 7px  solid;
-        border-top: 7px solid;
-        border-right: 7px solid;
-        border-image-slice: 1;
+        
+        border-left: 7px ;
+        border-top: 7px ;
+        border-right: 7px ;
+       
     }
 
     .chattogram{
         text-align: center;
-    background-image: url(images/b6.png);
+    background-image: url(images/nature1.jpg);
     background-repeat: no-repeat;
     background-size:1600px 200px;
-    padding-right: 5%;
-    padding-left: 5%;
-    padding-top: 1%;
-    }
+    border-radius: 40px;
+    box-shadow: 0 0 30px rgb(23, 119, 31);
+    color: rgb(245, 7, 7);
+   }
+  
+   
+  
 
     .second-div{
         background-image: url(images/b1.png);
         background-repeat: no-repeat;
-        
+        border-radius: 60px;
+        box-shadow: 0 0 30px rgb(23, 119, 31);
     }
 
 
